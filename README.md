@@ -1,2 +1,98 @@
 # Python_course
-Curso de python y otras cosas
+Cursos sobre python y otras cosas
+
+## Creación del ambiente para programación
+- Anaconda
+- Mi primer ambiente virtual
+- Instalación de paquetes
+- Jupyter
+
+## Curso básico de python (introducción a la programación)
+- Mi primer programa "Hola mundo"
+- Tipos de datos
+- Números
+  - Enteros
+  - Flotantes
+  - Complejos
+- Cadenas de texto
+  - Operaciones con cadenas
+  - Índices y slicing
+- Entrada y salida de datos
+- Listas
+  - Operaciones con listas
+  - Métodos de manejo con listas
+- Operadores lógicos
+- Control de flujo
+  - If
+  - For
+  - While
+- Datos estructurados
+  - Tuplas
+  - Conjuntos
+  - Diccionarios
+  - Pilas y colas
+## Curso intermedio de python (orientado a objetos)
+- Funciones
+  - Definición de una función
+  - Valores de retorno
+  - Argumentos de una función
+  - Recursividad
+- Funciones lambda
+- Filter
+- Map
+- Excepciones
+  - Errores
+  - Manejo de excepciones
+- Clases y objetos
+  - Definición de una clase
+  - TODO en Python es una clase!
+  - Programación estructurada vs POO
+- Herencia
+  - Clases heredadas
+  - Polimorfismo
+## Curso de procesamiento de imágenes con Python
+- ¿Qué es el procesamiento digital de imágenes?
+- Fundamentos de las imágenes digitales
+  - Proceso de adquisición de una imagen
+  - Sensado y adquisición
+  - Muestreo y cuantización
+  - Relaciones entre pixeles
+- Matematicas básicas dentro del procesamiento de imágenes
+  - Convolución
+  - Transformada de Fourier
+- Librerias útiles
+  - Numpy
+  - Pandas
+  - matplotlib
+  - Pillow
+  - OpenCV
+- Imagenes en el disco duro
+  - Lectura de una imagen
+  - Visualización de una imagen
+- Transformaciones de las imágenes en el dominio espacial
+  - Funciones básicas de transformación
+  - Procesamiento con el histograma
+  - Fundamentos del filtrado *espacial*
+  - Suavizado de imagen (filtro pasa bajas)
+  - Incrementar nitidez de imagen (filtro pasa altas)
+  - Combinación de filtros para mejorar la imagen
+- Transformaciones de las imágenes en el dominio de la frecuencia
+  - Conceptos preliminares
+  - Transformada de Fourier y su visualización
+- Restauración de imágenes y reconstrucción
+- Procesamiento en imágenes de color
+  - Espacios de color
+  - Ruido en imagenes
+- Operaciones morfologicas
+  - Erosion y dilatación
+  - Apertura y cierre
+- Segmentación de imágenes
+  - Fundamentos
+  - Detección de bordes
+  - Niveles de umbral
+## Curso de Deep Learning y Machine Learning (Pendiente)
+- CNN
+- Fully Connected
+- Pytorch
+- Tensorflow 2.X
+- Otras cosas (Pendiente)
