@@ -45,7 +45,7 @@ Cursos sobre python y otras cosas
   - Manejo de excepciones
 - Clases y objetos
   - Definición de una clase
-  - TODO en Python es una clase!
+  - TODO en Python es un objeto!
   - Programación estructurada vs POO
 - Herencia
   - Clases heredadas
